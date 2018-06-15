@@ -1,2 +1,2 @@
-# thinkphp5_cmf
-locate to thinkphp5 for develop
+# python3
+1.urllib 输出报错
